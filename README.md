@@ -64,3 +64,8 @@ This repository is part of my internship work, where I applied practical machine
 ---
 
 Thanks for visiting this repository! If you found it helpful or interesting, feel free to ⭐ star it or share your feedback!
+
+## 🙌 Author
+**Muhammad Hamid Raza**  
+Computer Science | Python Dev | Web Enthusiast  
+📧 Email Me ( hamidraza9182@gmail.com )
